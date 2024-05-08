@@ -6,11 +6,11 @@ export const contactMaster = createSlice({
     contactList: [
       {
         id: 1,
-        firstName: "anit",
-        lastName: "dhadve",
+        firstName: "Madhu",
+        lastName: "Medisetty",
         status: "active",
       },
-      { id: 2, firstName: "rupesh", lastName: "dhadve", status: "inactive" },
+      { id: 2, firstName: "Venkat", lastName: "Palla", status: "inactive" },
     ],
     loader: true,
     totalPages: 0,
